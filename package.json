@@ -1,4 +1,8 @@
 {
+  "name": "rat-fighter-rpg",
+  "version": "1.0.0",
+  "description": "Simple browser RPG where you fight rats",
+=======
   "name": "browser-game",
   "version": "1.0.0",
   "description": "Simple browser-based Rock Paper Scissors game",

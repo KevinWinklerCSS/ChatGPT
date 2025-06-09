@@ -1,6 +1,16 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
+
+    padding-top: 40px;
+}
+
+#stats {
+    margin-bottom: 20px;
+}
+
+button {
+=======
     padding-top: 50px;
 }
 
@@ -10,6 +20,9 @@ button {
     font-size: 16px;
 }
 
+
+#log {
+=======
 #result {
     margin-top: 20px;
     font-weight: bold;
