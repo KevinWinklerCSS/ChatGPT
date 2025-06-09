@@ -1,7 +1,7 @@
 {
-  "name": "browser-game",
+  "name": "rat-fighter-rpg",
   "version": "1.0.0",
-  "description": "Simple browser-based Rock Paper Scissors game",
+  "description": "Simple browser RPG where you fight rats",
   "scripts": {
     "start": "echo 'Open index.html in your browser'",
     "test": "echo 'No tests specified' && exit 0"
